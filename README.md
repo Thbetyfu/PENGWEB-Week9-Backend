@@ -6,7 +6,7 @@
 - **Program Studi:** S1 Rekayasa Perangkat Lunak (Software Engineering)
 - **Mata Kuliah:** Perancangan dan Pemrograman Web (CCK3DAB3)
 - **Nama Aplikasi Pribadi:** **Bengkelin** (Sistem Manajemen Servis Motor Konvensional & Motor Listrik)
-- **Repositori GitHub:** [https://github.com/Thbetyfu/PENGWEB-Week9-Backend.git](https://github.com/Thbetyfu/PENGWEB-Week9-Backend.git)
+- **Repositori GitHub:** [https://github.com/Thbetyfu/PENGWEB-Week9-Backend.git](https://github.com/Thbetyfu/PENGWEB-Week9-Backend.git) tadi saya lupa gak baca bapak, jadi ini baru buat lagi setelah push di repo lama
 
 ---
 
