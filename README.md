@@ -6,7 +6,7 @@
 - **Program Studi:** S1 Rekayasa Perangkat Lunak (Software Engineering)
 - **Mata Kuliah:** Perancangan dan Pemrograman Web (CCK3DAB3)
 - **Nama Aplikasi Pribadi:** **Bengkelin** (Sistem Manajemen Servis Motor Konvensional & Motor Listrik)
-- **Repositori GitHub:** [https://github.com/Thbetyfu/PENGWEB-MULAI-WEEK-7-Bengkelin.git](https://github.com/Thbetyfu/PENGWEB-MULAI-WEEK-7-Bengkelin.git)
+- **Repositori GitHub:** [https://github.com/Thbetyfu/PENGWEB-Week9-Backend.git](https://github.com/Thbetyfu/PENGWEB-Week9-Backend.git)
 
 ---
 
@@ -49,7 +49,7 @@ Aplikasi web modern untuk manajemen booking jadwal dan riwayat servis sepeda mot
 Untuk mempermudah pemahaman arsitektur dan pemisahan tanggung jawab (*Separation of Concerns*), repositori direfaktor ke dalam struktur **Monorepo** yang memisahkan sisi antarmuka pengguna (`frontend/`) dan sisi peladen API (`backend/`):
 
 ```text
-PENGWEB-MULAI-WEEK-7-Bengkelin/
+PENGWEB-Week9-Backend/
 │
 ├── frontend/                            # [FE] SISI KLIEN / VIEW (React 19 + Vite)
 │   ├── public/                         # Aset statis & logo
@@ -116,8 +116,8 @@ PENGWEB-MULAI-WEEK-7-Bengkelin/
 ### 2. Kloning Repositori
 
 ```bash
-git clone https://github.com/Thbetyfu/PENGWEB-MULAI-WEEK-7-Bengkelin.git
-cd PENGWEB-MULAI-WEEK-7-Bengkelin
+git clone https://github.com/Thbetyfu/PENGWEB-Week9-Backend.git
+cd PENGWEB-Week9-Backend
 ```
 
 ### 3. Menjalankan Backend API (NestJS)
